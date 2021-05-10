@@ -1,0 +1,8 @@
+<resources>
+    <string-array name="분실물종류">
+        <item>지갑</item>
+        <item>신분증</item>
+        <item>책</item>
+        <item>열쇠</item>
+    </string-array>
+</resources>
